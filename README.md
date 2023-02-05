@@ -1,6 +1,6 @@
 # FFT
 Даны два многочлена
 
-A(x)=anxn+an−1xn−1+⋯+a0
-B(x)=bmxm+bm−1xm−1+⋯+b0
+A(x)=a_n × x^n + ⋯ + a_1 × x + a_0\
+B(x)=b_m × x^m + ⋯ + b_1 × x + b_0\
 Вычислите C(x)=A(x)⋅B(x)
